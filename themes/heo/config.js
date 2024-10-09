@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '还不知道写些什么', url: 'https://notion.hitori.top' },
+    { title: '还不知道写些什么', url: 'https://note.hitori.top' },
   ],
 
   // 英雄区左右侧组件颠倒位置
